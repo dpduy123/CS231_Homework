@@ -1,0 +1,17 @@
+[data-testid="stMain"]{
+    background-color: rgb(9, 238, 9);
+}
+
+[data-testid="stMarkdownContainer"] {
+    background-color: white;
+    text-align: center
+}
+[data-testid="stFileUploaderFileName"] {
+    background-color: gray
+}
+[data-testid="stCaptionContainer"] {
+    background-color: gray
+}
+h1 {
+    color: rgb(0, 26, 255) !important;
+}
